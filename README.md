@@ -10,7 +10,7 @@
 
 #### Contact Me On :
 
-[![Email]] (mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arashsalehjou)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rainheartO7)
 
 ---
