@@ -19,7 +19,6 @@
 
 ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=python&logoColor=white)
-![LUA](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=lua&logoColor=white)
 ![SQL](https://img.shields.io/badge/-336791?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![R](https://img.shields.io/badge/-336791?style=for-the-badge&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/-0f3266?style=for-the-badge&logo=git&logoColor=white)
